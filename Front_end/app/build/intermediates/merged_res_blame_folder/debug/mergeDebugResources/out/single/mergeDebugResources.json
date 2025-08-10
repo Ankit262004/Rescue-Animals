@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.rescue_pets.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.rescue_pets.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.rescue_pets.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/drawable_normal.jpg.flat",
+        "source": "com.example.rescue_pets.app-main-34:/drawable/normal.jpg"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.rescue_pets.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/layout_activity_volunteer_dashboard.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/layout/activity_volunteer_dashboard.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.rescue_pets.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/drawable_admin.png.flat",
+        "source": "com.example.rescue_pets.app-main-34:/drawable/admin.png"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/drawable_ic_person.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.rescue_pets.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/layout_activity_login_volunteer.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/layout/activity_login_volunteer.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/drawable_rescue.png.flat",
+        "source": "com.example.rescue_pets.app-main-34:/drawable/rescue.png"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.rescue_pets.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/drawable_volunteer1.png.flat",
+        "source": "com.example.rescue_pets.app-main-34:/drawable/volunteer1.png"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/layout_activity_choose_actiity.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/layout/activity_choose_actiity.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/layout_activity_forgot_password_user.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/layout/activity_forgot_password_user.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.rescue_pets.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.rescue_pets.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/layout_activity_user_registration.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/layout/activity_user_registration.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/layout_activity_volunteer_registration.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/layout/activity_volunteer_registration.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/drawable_image_placeholder.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/drawable/image_placeholder.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/layout_activity_admin_login.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/layout/activity_admin_login.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/layout_activity_dash_board_admin.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/layout/activity_dash_board_admin.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/drawable_ic_email.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/layout_activity_dash_board_user.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/layout/activity_dash_board_user.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/layout_activity_forgot_password_volunteer.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/layout/activity_forgot_password_volunteer.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/layout_activity_rescue_field_acivity.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/layout/activity_rescue_field_acivity.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/drawable_edittext_background.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/drawable/edittext_background.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.rescue_pets.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/layout_activity_user_login.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/layout/activity_user_login.xml"
+    },
+    {
+        "merged": "com.example.rescue_pets.app-debug-32:/layout_forgot_password_admin.xml.flat",
+        "source": "com.example.rescue_pets.app-main-34:/layout/forgot_password_admin.xml"
+    }
+]

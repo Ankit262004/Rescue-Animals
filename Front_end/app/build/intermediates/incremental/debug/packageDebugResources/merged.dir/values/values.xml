@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_light">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="primary_color">#4CAF50</color>
+    <color name="red">#D32F2F</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_logo">Rescue Pets Logo</string>
+    <string name="app_name">Rescue_Pets</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="email_hint">Email Address</string>
+    <string name="facebook">Facebook</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="google">Google</string>
+    <string name="login">Login</string>
+    <string name="or_login_with">Or login with</string>
+    <string name="password_hint">Password</string>
+    <string name="register_now">Register Now</string>
+    <string name="remember_me">Remember me</string>
+    <string name="welcome_back">Welcome back! Please sign in to continue</string>
+    <style name="Base.Theme.Rescue_Pets" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Rescue_Pets" parent="Base.Theme.Rescue_Pets"/>
+</resources>
